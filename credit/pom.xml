@@ -21,7 +21,7 @@
         </plugins>
     </build>
     <modules>
-        <module>untitled</module>
+        
     </modules>
     <dependencies>
         <!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api -->
